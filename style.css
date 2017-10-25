@@ -51,3 +51,11 @@ text-align: center;
 ul{
 list-style-type: none;
 }
+
+/*Adding styles to resume page*/
+#Res{
+background-color:blue;
+text-align: center;
+color: black;
+}
+
