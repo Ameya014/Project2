@@ -112,7 +112,7 @@ text-align: center;
 
 /*Adding styles for interests page*/
 
-#Int{
+#Inte{
 background-color:blue;
 text-align: center;
 color: black;
@@ -123,6 +123,37 @@ text-align: center;
 }
 
 #image1{
+text-align: center;
+width: 50%;
+height: auto;
+}
+
+#Inte1{
+background-color:blue;
+text-align: center;
+color: black;
+}
+
+#Inte2{
+background-color:blue;
+text-align: center;
+color: black;
+}
+
+#Inte3{
+background-color:blue;
+text-align: center;
+color: black;
+}
+
+
+#image2{
+text-align: center;
+width: 50%;
+height: auto;
+}
+
+#image3{
 text-align: center;
 width: 50%;
 height: auto;
